@@ -1,6 +1,6 @@
 # Zombie Apocalypse Scenario
 
-
+![Banner](Zombie Apocalypse Scenario.png)
 
 ## Project Overview:
 
@@ -9,8 +9,8 @@ This project is a creative data analysis exercise built around a fictional scena
 **What I learned:**
 While going throught this project I developed my technical and communication skills to organize the data in a thoughtful way, and present it to stakeholders so they could understand the data and act accordingly. I worked closely with pandas and built my skills in understanding data types and missing values. I created multiple types of charts and when to use them. Overall this project, though fictional, reinforced my ability to turn raw data into clear insights to be used in making business decisions.
 
-## Files in This Project
-
+## Files and Program Used in This Project
+**Python**
 `/report.ipynb` + Main analysis notebook  
 `/MOCK_DATA.csv` + Dataset provided for the scenario
 
