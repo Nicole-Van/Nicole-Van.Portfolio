@@ -41,6 +41,7 @@ This helped to show how infections were distributed across genders.
 ![Infection by Gender](ByGenderPieChart.jpg)
 
 **6. Organized the Data to Show Infected vs. Not Infected by Gender Into a Stacked Column Chart**
+
 This helped to compared infection states within each gender.
 
 ![Infected vs. Not Infected](ByGenderColumn.jpg)
