@@ -26,17 +26,25 @@ column types, null values, memory usage, and total rows/columns
 
 **3. Organize the Data to Show the First Five Rows**
 
-Gave leadership a quick overview of the most urgent data.
+This provides leadership with a quick overview of the most urgent data.
+
+![First Five Rows with Code](Code_FirstFiveRows.jpg)
 
 **4. Organized the Data to Show Infection by State Into a Column Chart**
 
 This helped to visualize which states had the most zombie infections.
 
+![Infection by State](ByStateBarChart.jpg)
+
 **5. Organized the Data to Show Infection by Gender Using a Pie Chart**
 This helped to show how infections were distributed across genders.
 
+![Infection by Gender](ByGenderPieChart.jpg)
+
 **6. Organized the Data to Show Infected vs. Not Infected by Gender Into a Stacked Column Chart**
 This helped to compared infection states within each gender.
+
+![Infected vs. Not Infected](ByGenderColumn.jpg)
 
 ## Key Insights:
 A. Some states had significantly higher infection activity, indicating early outbreak clusters.
